@@ -56,4 +56,4 @@ The harvesting logic runs on the server:
 
 ## License
 
-Tanya's Auto Harvest is released under the CC0 1.0 Universal license.
+Tanya's Auto Harvest is released under the MIT License.
