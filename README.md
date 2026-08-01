@@ -1,5 +1,9 @@
 # Tanya's Auto Harvest
 
+![Minecraft](https://img.shields.io/badge/Minecraft-1.21.6-green)
+![Fabric](https://img.shields.io/badge/Loader-Fabric-blue)
+![License](https://img.shields.io/badge/License-MIT-brightgreen)
+
 > Harvest and replant mature crops with a single right-click.
 
 **Tanya's Auto Harvest** is a lightweight quality-of-life farming mod for
