@@ -1,6 +1,6 @@
 # Tanya's Auto Harvest
 
-![Minecraft](https://img.shields.io/badge/Minecraft-1.21.6-green)
+![Minecraft](https://img.shields.io/badge/Minecraft-26.2-green)
 ![Fabric](https://img.shields.io/badge/Loader-Fabric-blue)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
