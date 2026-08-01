@@ -30,7 +30,7 @@ More crops may be supported in future updates.
 2. Right-click the crop.
 3. Collect the drops while the replanted crop begins growing again.
 
-That is all—no seeds need to be selected and no special tool is required.
+That is all no seeds need to be selected and no special tool is required.
 
 ## Requirements
 
